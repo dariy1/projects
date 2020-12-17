@@ -13,6 +13,8 @@
 
 4. [Анализ пользовательского поведения в мобильном приложении](https://github.com/dariy1/projects/tree/main/AB_test_mobile_app)
 
+5. [Финальные проекты: оценка результатов A/B-теста, проект по SQL и формирование модели монетизации]
+
 Основные библиотеки
 ------
-`pandas`, `requests`, `yaml`, `time`, `numpy`, `matplotlib`, `seaborn`, `stats`
+`pandas`, `requests`, `yaml`, `time`, `numpy`, `matplotlib`, `seaborn`, `stats`, `scipy`
